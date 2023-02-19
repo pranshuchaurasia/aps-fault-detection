@@ -1,4 +1,4 @@
-# neurolab-mongo-python
+# lab-mongo-python
 
 ### Step 1 - Install the requirements
 
