@@ -102,7 +102,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+#remove env from main code -> because it contains important credentials
+#.env
 .venv
 env/
 venv/
